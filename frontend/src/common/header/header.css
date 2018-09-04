@@ -1,0 +1,10 @@
+.header{
+    height: 85px;
+    background: #17a2b8;
+    background-image: url("../../IMG/logo.png");
+    text-align: center;
+    font-size: 40px;
+    color: aliceblue;
+    background-repeat: no-repeat;
+    
+}
