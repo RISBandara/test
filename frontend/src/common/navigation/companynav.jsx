@@ -14,9 +14,7 @@ export default class Companynav extends React.Component {
                 </Link>
                 <br/>
                 <Link to="/allocation"><div  className="navigation-item">
-                    <span className="nav-item"><i className="fa fa-dashboard"></i>Allocafxgsdfjns</span>
-                </div>
-                </Link>
+
                 
             </div>
         );
